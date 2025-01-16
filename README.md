@@ -1,0 +1,2 @@
+# Unexpected behavior when dealing with null and undefined values
+This repository contains a JavaScript function that demonstrates unexpected behavior when dealing with `null` and `undefined` values. The function `foo` is designed to handle `null` and `undefined` inputs differently. However, it behaves unexpectedly when provided with `NaN` as input, which may not be intuitive to all developers.  The solution shows how to improve the function to handle `NaN` more appropriately.
